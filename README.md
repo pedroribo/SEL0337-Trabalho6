@@ -1,7 +1,7 @@
 # SEL0337-Trabalho6
 
 Alunos:
-Matheus Maquera Torres 5270220
+Matheus Maquera Torres 5270220;
 Pedro Ricieri Borchio 12547552
 
 ## Projeto da Verificação da tag de Acesso
